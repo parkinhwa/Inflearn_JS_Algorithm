@@ -1,0 +1,36 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "df5a2e00-8386-47c8-9b7a-595c329b990a",
+        "line": 2,
+        "version": 51,
+        "index": 20
+      }
+    ],
+    "Section01/12.unification_in_capital_letters.js": [
+      {
+        "id": "554c8896-19e3-487e-8bbf-0a2326f36023",
+        "line": 6,
+        "version": 1,
+        "index": 102
+      }
+    ],
+    "Section01/7.A_ten-part_system": [
+      {
+        "id": "dcaa6a3a-8b2a-4939-ab5e-5592a6937390",
+        "line": 12,
+        "version": 0,
+        "index": 199
+      }
+    ],
+    "Section01/8.Seven_Dwarfs.js": [
+      {
+        "id": "431c4484-8d3b-41cc-a0e2-f4e940358b52",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
