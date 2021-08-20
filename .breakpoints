@@ -1,13 +1,5 @@
 {
   "files": {
-    ".replit": [
-      {
-        "id": "df5a2e00-8386-47c8-9b7a-595c329b990a",
-        "line": 2,
-        "version": 51,
-        "index": 20
-      }
-    ],
     "Section01/12.unification_in_capital_letters.js": [
       {
         "id": "554c8896-19e3-487e-8bbf-0a2326f36023",
@@ -46,6 +38,14 @@
         "line": 1,
         "version": 276,
         "index": 0
+      }
+    ],
+    "Section06/06.Saving_a_Princess.js": [
+      {
+        "id": "cde505e5-9201-4553-84e6-e42462fdf721",
+        "line": 3,
+        "version": 877,
+        "index": 78
       }
     ]
   }
