@@ -1,6 +1,6 @@
 function solution(n){
   let answer = 0;
-  let dy = ({length:n+2}, ()=>0);
+  let dy = Array.from({length:n+2}, ()=>0);
   dy[1] = 1;
   dy[2] = 2;
   for(let i = 3; i <= dy.length; i++){
