@@ -1,3 +1,4 @@
+// 중복이 가능할 때 냅색 알고리즘
 let arr = [1, 2, 5];
 function solution(arr, m){
   let answer;
